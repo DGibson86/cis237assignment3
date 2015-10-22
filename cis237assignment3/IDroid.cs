@@ -11,5 +11,7 @@ namespace cis237assignment3
         void CalculateTotalCost();
 
         decimal TotalCost { get; set; }
+
+
     }
 }
